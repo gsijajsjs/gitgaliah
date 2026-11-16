@@ -1,0 +1,42 @@
+body{
+    background-image: url(img/fon.jpg);
+}
+
+.container{
+color: black;
+text-align: center;
+}
+
+.t1{
+color: aqua;
+text-align: left;
+}
+.t2{
+color: rgb(207, 58, 162);
+text-align: right;
+}
+.t3{
+color: rgb(255, 0, 0);
+text-align: center;
+}
+.t4{
+color: olive;
+text-align: justify;
+}
+.t5{
+color: rgb(229, 255, 0);
+text-align: left;
+}
+#b1{
+margin: 50px ;
+border: 2px solid red
+}
+#b2{
+margin: 30px ;
+border: 3px dashed;
+background-color: purple;
+}
+#b3{
+margin: 20px ;
+border: 5px solid aquamarine
+}
